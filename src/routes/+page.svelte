@@ -1,1 +1,7 @@
-<h1> This is a test</h1>
+<script>
+  export let data
+</script>
+
+<h1> Sriram Desaraju - UHasselt - 2262335</h1>
+<h2> Overview</h2>
+console.log(data)
